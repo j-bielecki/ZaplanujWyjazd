@@ -5,8 +5,12 @@ This app could be useful if you want to get the shortest or the fastest path on 
 
 This app ensures internationalization by including all subtitles in separate xml files for each language (Polish and English).  
 Using:
+
 -Google Maps for Android,
+
 -Google Distance Matrix service,
+
 -Google Directions service.
+
 
 Communication with all those services is based on http protocol. We get a json file as response, which is parsing to get all necessary data.
